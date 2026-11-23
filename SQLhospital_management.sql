@@ -1,7 +1,4 @@
--- ============================================================
--- HOSPITAL MANAGEMENT SYSTEM
--- Beginner-friendly MySQL 8.0 project
--- ============================================================
+
 
 CREATE DATABASE IF NOT EXISTS hospital_management;
 USE hospital_management;
@@ -486,6 +483,4 @@ SELECT name, experience_years,
        END AS experience_category
 FROM Doctors;
 
--- ============================================================
--- END OF PROJECT
--- ============================================================
+
